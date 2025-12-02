@@ -1,4 +1,5 @@
 # train.py : ตัวอย่าง ML ง่ายที่สุด
+# pip install scikit-learn
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
